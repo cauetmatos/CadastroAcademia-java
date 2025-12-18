@@ -1,0 +1,13 @@
+Este projeto é um sistema simples de gerenciamento de academia desenvolvido em Java, com o objetivo de permitir ao usuário realizar operações básicas como:
+
+📌 Cadastrar clientes
+
+📌 Editar informações de clientes
+
+📌 Listar clientes cadastrados
+
+📌 Registrar planos e pagamentos
+
+📌 Consultar histórico de clientes
+
+O sistema foi desenvolvido como projeto de estudo/prática de programação orientada a objetos em Java.
